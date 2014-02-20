@@ -1,0 +1,14 @@
+{
+  "name": "esundahl-flippers",
+  "description": "flipper animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-flip": "git://github.com/npmcomponent/esundahl-flip.git",
+    "esundahl-flip-in-x": "git://github.com/npmcomponent/esundahl-flip-in-x.git",
+    "esundahl-flip-out-x": "git://github.com/npmcomponent/esundahl-flip-out-x.git",
+    "esundahl-flip-in-y": "git://github.com/npmcomponent/esundahl-flip-in-y.git",
+    "esundahl-flip-out-y": "git://github.com/npmcomponent/esundahl-flip-out-y.git"
+  },
+  "license": "MIT"
+}
